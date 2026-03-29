@@ -1,38 +1,37 @@
-# Hi there 👋
+![Banner](https://raw.githubusercontent.com/DevDominique/DevDominique/new-readme/assets/DevDominique_GitHubBanner.png)
 
-![Banner](https://github-readme-stats.vercel.app[YOUR_USERNAME]&show_icons=true&theme=dracula)
-
-<p align="center">
-  <img src="[LINK_TO_YOUR_FAVORITE_WHIMSICAL_GIF]" alt="Fun coding gif" width="400">
-</p>
+# Hi Fellow Dev! 👋
 
 ### About Me
 
 I’m a Computer Science student and aspiring software developer who loves building technology that supports community and makes everyday life easier. I work primarily with JavaScript, React, Node.js, HTML/CSS, and PostgreSQL to create full‑stack web applications. I also have a strong foundation in object‑oriented programming through earlier projects in Java and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning full-stack web development
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+- 👩🏾‍💻 I’m currently building a series of full-stack apps
+- 👩🏾‍🎓 I’m currently learning REST APIs to connect frontend to backend data flow
+- 🧙🏾‍♀️ Fun fact: My first-ever Godot-powered, fantastical 2D RPG is in the works—daring quests, dungeons, and magic oh my!🪄
 
+---
 ### Tech Stack
 
 <p align="left">
 
 **Languages**
 
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-025E8C?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-025E8C?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-025E8C?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-025E8C?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-025E8C?style=for-the-badge&logo=css3&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 **Frameworks & Libraries**
 
  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
- ![pg](https://img.shields.io/badge/pg-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
- ![dotenv](https://img.shields.io/badge/dotenv-000000?style=for-the-badge&logo=dotenv&logoColor=white)
+ ![Express.js](https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express&logoColor=white)
+ ![Vite](https://img.shields.io/badge/Vite-339933?style=for-the-badge&logo=vite&logoColor=white)
+ ![pg](https://img.shields.io/badge/pg-339933?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![dotenv](https://img.shields.io/badge/dotenv-339933?style=for-the-badge&logo=dotenv&logoColor=white)
 
 **Database & Cloud**
 
@@ -41,14 +40,15 @@ I’m a Computer Science student and aspiring software developer who loves build
 
 **Tools**
 
- ![CoPilot](https://img.shields.io/badge/Copilot-1aff66?style=for-the-badge&logo=microsoft&logoColor=white)
- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ ![CoPilot](https://img.shields.io/badge/Copilot-ffffff?style=for-the-badge&logo=microsoft&logoColor=black)
+ ![VS Code](https://img.shields.io/badge/VSCode-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+ ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black)
+ ![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)
 
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.appDevDominique&layout=compact&theme=dracula" />
-</p>
+---
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-025E8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominiquedwilson/)
+
