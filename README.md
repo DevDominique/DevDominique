@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/DevDominique/DevDominique/new-readme/assets/DevDominique_GitHubBanner.png)
+![Banner](https://raw.githubusercontent.com/DevDominique/DevDominique/main/assets/DevDominique_GitHubBanner.png)
 
 # Hi Fellow Dev! 👋
 
